@@ -1,3 +1,3 @@
-# Website
+# Mobile Brazil Conference Website
 
-Repositório com o site oficial do Mobile Brazil Conference http://mobilebrazilconference.com.br/
+Here you can find the official source code ublished in http://mobilebrazilconference.com.br
